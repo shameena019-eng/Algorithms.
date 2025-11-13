@@ -1,3 +1,0 @@
-# shameena
-
-print("Hello World")
